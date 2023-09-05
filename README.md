@@ -16,8 +16,6 @@ Este é um exemplo de um README.md para um projeto simples de portfolio criado c
 
 Este é um simples projeto de portfolio criado com HTML e CSS, dedicado ao curso de HTML e CSS da Alura. Ele inclui informações pessoais, uma breve descrição e links para redes sociais e perfis de desenvolvedor.
 
-![Portfolio](imagens/math.png)
-
 ### Pré-requisitos
 
 Antes de começar, você deve ter o seguinte instalado em sua máquina:
