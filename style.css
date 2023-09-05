@@ -10,6 +10,7 @@ body {
   box-sizing: border-box;
   background-color: #000;
   color: white;
+  margin: 10%;
 }
 
 .titulo-destaque {
