@@ -12,12 +12,30 @@ body {
   color: white;
 }
 
-.titulo-destaque {
+.cabecalho {
+  padding: 2% 0 0 15%; /* superior, direito, inferior, esquerdo */
+}
+
+.cabecalho___menu {
+  display: flex;
+  gap: 80px;
+}
+
+.cabecalho___menu___link {
+  font-family: "Montserrat", sans-serif;
+  font-size: 24px;
+  font-weight: 600;
   color: #00f0b6;
 }
 
+.cabecalho___menu___link:hover {
+  color: #f6f6f6;
+  transform: scale(1.05); /* Aumenta o tamanho em 10% */
+  transition: box-shadow 250ms ease 100ms, transform 100ms ease 50ms;
+}
+
 .apresentacao {
-  padding: 8%;
+  padding: 5% 15%;
   display: flex;
   align-items: center;
   justify-content: space-between;
@@ -33,6 +51,10 @@ body {
 .apresentacao___conteudo___titulo {
   font-size: 36px;
   font-family: "Krona One", sans-serif;
+}
+
+.titulo-destaque {
+  color: #00f0b6;
 }
 
 .apresentacao___conteudo___texto {
