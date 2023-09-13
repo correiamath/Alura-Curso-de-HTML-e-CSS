@@ -1,4 +1,4 @@
-# Portfolio de Matheus Correia
+# Curso de HTML e CSS - Portfolio responsivo
 
 Este é o repositório do projeto de portfolio dedicado ao curso de HTML e CSS da Alura, com pequenas alterações.
 
