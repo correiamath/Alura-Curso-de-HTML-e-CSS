@@ -5,7 +5,7 @@ Este é o repositório do projeto de portfolio dedicado ao curso de HTML e CSS d
 ## Páginas
 
 - [Página Inicial](index.html) - Apresenta informações gerais sobre Matheus e seus projetos.
-- [Sobre Mim](about.html) - Fornece detalhes adicionais sobre Matheus e sua trajetória.
+- [Sobre Mim](about.html) - Fornece detalhes adicionais sobre o proprietário.
 
 ## Estrutura de Arquivos
 
