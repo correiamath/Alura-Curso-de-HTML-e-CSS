@@ -25,7 +25,7 @@ Antes de começar, você deve ter o seguinte instalado em sua máquina:
 1. Clone este repositório em seu ambiente de desenvolvimento:
 
    ```bash
-   git clone https://github.com/seu-usuario/portfolio-html-css-alura.git
+   git clone https://github.com/correiamath/Curso-de-HTML-e-CSS.git
    ```
 
 2. Abra o arquivo `index.html` em seu navegador ou, se preferir, inicie um servidor local para visualizar o projeto.
