@@ -138,6 +138,9 @@ body {
     padding: 5%;
   }
   .apresentacao__conteudo {
-    width: 80%;
+    width: 95%;
+  }
+  .apresentacao__links {
+    width: 95%;
   }
 }
