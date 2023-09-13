@@ -1,24 +1,27 @@
-# Portfolio HTML and CSS
+# Portfolio de Matheus Correia
 
-Este é um exemplo de um README.md para um projeto simples de portfolio criado com HTML e CSS. O projeto é dedicado ao curso de HTML e CSS da Alura e é uma ótima maneira de compartilhar sua jornada como iniciante na programação.
+Este é o repositório do projeto de portfolio dedicado ao curso de HTML e CSS da Alura, com pequenas alterações.
 
-## Conteúdo
+## Páginas
 
-- [Visão Geral](#visão-geral)
-- [Pré-requisitos](#pré-requisitos)
-- [Instruções de Uso](#instruções-de-uso)
-- [Estrutura do Projeto](#estrutura-do-projeto)
-- [Recursos Utilizados](#recursos-utilizados)
-  
-## Visão Geral
+- [Página Inicial](index.html) - Apresenta informações gerais sobre Matheus e seus projetos.
+- [Sobre Mim](about.html) - Fornece detalhes adicionais sobre Matheus e sua trajetória.
 
-Este é um simples projeto de portfolio criado com HTML e CSS, dedicado ao curso de HTML e CSS da Alura. Ele inclui informações pessoais, uma breve descrição e links para redes sociais e perfis de desenvolvedor.
+## Estrutura de Arquivos
 
-### Pré-requisitos
+- [`index.html`](index.html) - Página inicial do portfólio.
+- [`about.html`](about.html) - Página "Sobre Mim" com informações adicionais.
+- [`style.css`](styles/style.css) - Arquivo CSS responsável pela estilização do portfólio.
+- [`assets`](assets) - Diretório contendo imagens utilizadas no portfólio.
 
-Antes de começar, você deve ter o seguinte instalado em sua máquina:
+## Responsividade:
+- O design é responsivo e se adapta a tamanhos de tela diferentes com uma reorganização dos elementos.
 
-- Navegador da web moderno
+## Tecnologias Utilizadas
+
+- HTML5
+- CSS3
+- Google Fonts para estilos tipográficos personalizados
 
 ## Instruções de Uso
 
@@ -29,19 +32,3 @@ Antes de começar, você deve ter o seguinte instalado em sua máquina:
    ```
 
 2. Abra o arquivo `index.html` em seu navegador ou, se preferir, inicie um servidor local para visualizar o projeto.
-
-## Estrutura do Projeto
-
-A estrutura do projeto é simples:
-
-- `index.html`: Contém a estrutura HTML do portfolio.
-- `style.css`: O arquivo CSS responsável pela estilização do portfolio.
-- `imagens/`: Pasta que contém a imagem de perfil.
-
-## Recursos Utilizados
-
-Este projeto utiliza os seguintes recursos:
-
-- Fontes do Google Fonts: "Krona One" e "Montserrat".
-- Cores personalizadas.
-- Flexbox para o layout.
