@@ -52,7 +52,7 @@ body {
 }
 
 .apresentacao__conteudo {
-  width: 615px;
+  width: 50%;
   display: flex;
   flex-direction: column;
   gap: 40px; /* A propriedade gap não é exclusiva do Flexbox, porém é utilizada quase sempre em conjunto com ele. Ela especifica no CSS o tamanho dos espaços entre linhas e colunas em layouts de grid, flex e multi-column. Sua sintaxe é bem simples e ela aceita um ou dois valores. */
@@ -86,7 +86,7 @@ body {
   font-size: 1.5rem;
 }
 
-.apresentacao__links__links {
+.apresentacao__links__navegacao {
   display: flex;
   justify-content: center;
   gap: 16px;
@@ -109,6 +109,10 @@ body {
   transform: scale(1.05); /* Aumenta o tamanho em 10% */
   box-shadow: 0px 0px 20px var(--cor--terciaria); /* Adiciona uma sombra suave no hover */
   transition: box-shadow 250ms ease 100ms, transform 100ms ease 50ms;
+}
+
+.apresentacao__imagem {
+  width: 50%;
 }
 
 .rodape {
