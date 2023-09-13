@@ -123,7 +123,7 @@ body {
   font-weight: 400;
   text-align: center;
   padding: 24px;
-  font-size: 1.5rem;
+  font-size: 0.5rem;
 }
 
 @media (max-width: 1200px) {
@@ -138,6 +138,6 @@ body {
     padding: 5%;
   }
   .apresentacao__conteudo {
-    width: auto;
+    width: 80%;
   }
 }
