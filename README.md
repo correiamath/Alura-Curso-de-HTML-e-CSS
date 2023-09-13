@@ -31,4 +31,4 @@ Este é o repositório do projeto de portfolio dedicado ao curso de HTML e CSS d
    git clone https://github.com/correiamath/Curso-de-HTML-e-CSS.git
    ```
 
-2. Abra o arquivo `index.html` em seu navegador ou, se preferir, inicie um servidor local para visualizar o projeto.
+2. Abra o arquivo `index.html` em seu navegador ou, se preferir, inicie um [´servidor local´](https://correiamath.github.io/Curso-de-HTML-e-CSS/) para visualizar o projeto.
